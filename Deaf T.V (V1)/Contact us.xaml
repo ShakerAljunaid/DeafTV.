@@ -1,0 +1,12 @@
+﻿<Window x:Class="Deaf_T.V__V1_.Contact_us"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Contact_us" Height="300" Width="300">
+    <Canvas HorizontalAlignment="Left" Height="269" VerticalAlignment="Top" Width="290">
+        <TextBlock Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="10" Height="249" Width="270"><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run Text="You can contact the Deaf T.V developers either via direct contact on the following phone numbers:"/><LineBreak/><Run Text="    +967 774642421"/><LineBreak/><Run Text="                or"/><LineBreak/><Run Text="       +967-714081192"/><LineBreak/><Run/><LineBreak/><Run Text="or via visiting our website :"/><LineBreak/><Run/><Run Text="             "/><InlineUIContainer>
+    		
+    		</InlineUIContainer><Hyperlink><Run Text="Www.DeafT.V.com"/></Hyperlink></TextBlock>
+        <Border BorderBrush="#FFFF6E00" BorderThickness="2" Height="269" Width="290"/>
+    </Canvas>
+
+</Window>

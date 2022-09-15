@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<LangSettings>
+  <IsRtl>0</IsRtl>
+  <MinFontSize>11</MinFontSize>
+  <HeadingFontSize>16</HeadingFontSize>
+  <UIText>
+    <!-- Menu bar -->
+    <Entry key="TbMediaplayer">مشغل الفيديو</Entry>
+    <Entry key="TbDictinary">القاموس</Entry>
+    <Entry key="txtbtnLoad">مشغل الفيديو</Entry>
+    <Entry key="txtbtnSgnDic">القاموس</Entry>
+    <Entry key="txtbtnAbout">مشغل الفيديو</Entry>
+    <Entry key="txtbtnContact">القاموس</Entry>
+    <Entry key="txtbtnHelp">مشغل الفيديو</Entry>
+    <Entry key="txt">القاموس</Entry>
+
+
+    
+
+
+    <!-- Common Operations -->
+    <Entry key="TtbtnPlay">تشغيل</Entry>
+    <Entry key="TtbtnStop">ايقاف</Entry>
+    <Entry key="TtbtnPause">ايقاف مؤقت</Entry>
+    <Entry key="TtvolumeSlider">مستوى الصوت</Entry>
+    
+
+    <!-- Dictionary Tab -->
+           <!--Controls' texts-->
+       
+    <Entry key="txttbArb">عربي</Entry>
+    <Entry key="txttbEng">انجليزي</Entry>
+            <!--Controls' Tool tips-->
+    <Entry key="TttxtSrch">يمكنك البحث عن الكلمات العربية او الانجليزية</Entry>
+    <Entry key="TttbArb">الكلمات المتوفرة باللغة العربية</Entry>
+    <Entry key="TttbEng">الكلمات المتوفرة باللغة الانجليزية</Entry>
+    <Entry key="TttbbtnPlay">إعادة الفيديو</Entry>
+
+    
+    <!-- Item Labels -->
+    <Entry key="FlipRotateLabel">Spiegeln / Drehen</Entry>
+    <Entry key="OffsetLabel">Positionieren auf</Entry>
+    <Entry key="ScaleToLabel">Maßstab Zu</Entry>
+    <Entry key="DimensionsLabel">Abmessungen</Entry>
+    <Entry key="WidthLabel">Breite</Entry>
+    <Entry key="HeightLabel">Höhe</Entry>
+    <Entry key="GoLabel">Gehen</Entry>
+
+  </UIText>
+</LangSettings>

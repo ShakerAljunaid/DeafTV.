@@ -1,0 +1,9 @@
+﻿<Window x:Class="Deaf_T.V__V1_.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="300" Width="300">
+    <Canvas HorizontalAlignment="Left" Height="269" VerticalAlignment="Top" Width="290">
+        <Border BorderBrush="#FFFF6E00" BorderThickness="2" Height="269" Width="290"/>
+        <TextBlock Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="10" Height="249" Width="270"><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run Text="*Deaf T.V application is a program that convert the video whose subtitle available to sign language which helps the people suffer deafness to interest watching videos."/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run Text="*The app also has a Dictionary Feature that can be used to understand the sign language by the people who teach the deaf people. "/></TextBlock>
+    </Canvas>
+</Window>

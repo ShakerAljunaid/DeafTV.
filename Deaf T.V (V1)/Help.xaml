@@ -1,0 +1,9 @@
+﻿<Window x:Class="Deaf_T.V__V1_.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Help" Height="300" Width="300">
+    <Canvas HorizontalAlignment="Left" Height="269" VerticalAlignment="Top" Width="290">
+        <Border BorderBrush="#FFFF6E00" BorderThickness="2" Height="269" Width="290"/>
+        <TextBlock Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="10" Height="249" Width="270"><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run Text="See the manual :"/><LineBreak/><Run/><LineBreak/><Run Text="                        "/><InlineUIContainer/><Hyperlink><Run Text="DeafT.vManual.pdf"/></Hyperlink></TextBlock>
+    </Canvas>
+</Window>
